@@ -1,0 +1,131 @@
+maven-archetype-quickstart
+
+https://archive.org/details/anubhashya_201907/page/n17/mode/2up?view=theater
+
+https://www.linkedin.com/learning/paths/become-a-manager
+
+
+Chakrapani@2023
+
+Developed Testcases for below Requirements : 
+ASBA
+FundTransfer
+TermDeposit
+SavingsAccount
+Insurance
+Govt Payment
+DebitCard Services
+CreditCard Services
+Bill Payment
+
+Worked with Team for Reviewing the Testcases and solving the doubts
+Performed SIT for ASBA
+
+
+KishoreV90
+/
+GitPro
+
+GIT pwd : A4.7zcaRk.h2Nv2
+
+Lead the team.
+Take ownership and accountability
+Improve interpersonal communication skills
+Be more proactive
+
+1. Testcase writing
+2. Update reflections - performance and project reflections
+3. Ask nitu to provide performance review
+
+bills will be paid automatically in each billing cycle on their due dates using your default payment account
+
+->Worked on RAD NTE Critical projects for March Release
+->Worked on CircuitAuditor e911 Tag indicator project for June Release
+->Worked on Flexible Optimal Carrier Solution project for March release
+->Worked on Flexible Optimal Carrier Solution project for June release
+->Worked on IEOL API ACVMT product for March and June Release
+->Worked on IEOL API APBA product for April Release
+
+615515BR
+
+Below details are fetched and shown to the user : 
+
+a.	Credit card limit
+b.	Fees (fetched from admin module)
+c.	Charges (fetched from admin module)
+d.	Most important terms and conditions (fetched from admin module)
+e.	Privacy policy (fetched from admin module)
+f.	Fair Practice code(fetched from admin module)
+
+
+
+Need to click on Verify OTP twice
+
+JalaJalochana@1234
+
+
+Hi @Karthekk,
+
+For Login registeration ETB, After OTP verification is done, it's asking for Additional authentication
+
+We didn't receive data for Additional Authentication
+
+Below are the Data required for Additional authenication : 
+
+Debit Card Number and Card PIN
+Credit Card Number and Card PIN
+InternetBanking password for InternetBanking and
+Aadhar number and Date of Birth for Personal Information.
+
+We need above data to proceed further with testing
+
+BOI-936 - Open(blocker)
+BOI-945 - Open
+BOI-946 - Reopened
+BOI-1012 - Open(Medium)
+
+
+Issues observed : 
+
+-> Raise bug for View only rights
+-> Raise bug for OTP verification issue
+
+
+MediAssist@1234
+
+520300297561
+
+
+We are unable to test ASBA UAT build as when we launch UA app, it asks for Cust ID. When cust ID is entered and clicked on Update button, nothing is happening.
+
+When I remove cust ID and click on any of the languages, I am able to Navigate to ASBA section but unable to place the bid as End to End flow of placing the bid is not working.
+
+SIT Build release for Login & Registration Module
+
+Personal information - not working
+
+
+When I modify the build, it fails and it is still shown as inprogress, when i go to details page it is showing as withdrawn
+
+
+
+Cust Id linked to PAN number and multiple accounts (Current, Joint, Ind)
+                
+                002050736 |8454013260  
+                300060635 |8454013260  - not working
+				
+				
+				Active add-on with/without transactions, hotlisted add-ons
+				
+				need one column - bill statement generated or not 
+				
+				expired cards - add - just like hotlisted cards but bifurcating in UA - page no 134 in latest VD
+				NRI with international address - international communication address
+				
+				
+				
+101000
+
+3754
+
+http://lakesidesportscentre.com/Subscription
